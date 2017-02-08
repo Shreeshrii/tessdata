@@ -1,4 +1,4 @@
-# tessdata
+# tessdata (DO NOT DELETE)
 Tessdata 3.02 tar,gz files for Hindi and Arabic 
 
 Single file for ease of download
